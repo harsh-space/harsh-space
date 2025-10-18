@@ -1,32 +1,57 @@
-<h2 align="left">Hi, I'm Harsh Kumar <img src="wave.gif" width="30px" alt="wave" /></h2>
+<h1 align="center">
+Hi there, I'm Harsh Kumar !<img src="https://raw.githubusercontent.com/harsh-space/harsh-space/main/wave.gif" width="30px" alt="wave" />
+</h1>
 
-<p align="left">
-I'm a third-year B.Tech CSE student, endlessly curious and wandering through the vast world of technologies in this AI-driven era. I love exploring new frameworks, building side projects, and turning creative ideas into reality. Currently, I'm working on <b>Code Reviewer</b>, a smart platform inspired by Cursor that focuses solely on efficient and insightful code reviews. *(Coming Soon!)*  
+## 👨‍💻 About Me
+
+```typescript
+const harsh = {
+    education: "Third-year B.Tech in Computer Science",
+    passion: "Building cool stuff with code",
+    currentProject: "Code Reviewer - Smart code review platform (Coming Soon!)",
+    motto: "Learning, experimenting, and creating"
+};
+```
+
+> 💡 I love exploring new frameworks, building side projects, and turning creative ideas into reality. Currently working on **Code Reviewer**, a smart platform inspired by Cursor that focuses solely on efficient and insightful code reviews.
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express" alt="Languages & Frameworks" />
 </p>
 
-<hr style="border:1px solid #444444">
-
-## 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,html,css,mysql,github,js,react,nodejs,python,express,unity,firebase&perline=" />
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,github,arduino,unity" alt="Databases & Tools" />
 </p>
 
-<hr style="border:1px solid #444444">
+</div>
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-space&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1E90FF&text_color=000000&icon_color=000000&count_private=true&hide_rank=false&card_width=400&show_name=true&custom_title=Harsh%20Kumar%27s%20GitHub%20Stats" 
-       alt="GitHub Stats" width="400"/>
-</p>
+## 📊 GitHub Statistics
 
-<hr style="border:1px solid #444444">
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh-space&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=harsh-space&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=FF6B6B&currStreakLabel=1E90FF&sideNums=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
 
-## 🔥 GitHub Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=harsh-space&theme=white&hide_border=true&background=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakLabel=true&currStreakNum=true&sideNums=true&border_radius=5&stroke=1&date_format=M%20j&show_name=true&custom_title=Harsh" 
-       alt="GitHub Streak" width="400"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-space&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-space&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=C9D1D9" alt="Contribution Graph" />
 
-<hr style="border:1px solid #444444">
+</div>
 
+---
 
+<div align="center">
+
+### 💬 Let's Connect!
+
+*"The only way to do great work is to love what you do."*
+
+[![GitHub](https://img.shields.io/badge/GitHub-harsh--space-181717?style=for-the-badge&logo=github)](https://github.com/harsh-space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshkumar404)
+
+</div>
