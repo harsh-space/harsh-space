@@ -1,62 +1,47 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">I love exploring technologies and turning ideas into projects 🚀</h3>
+<h2 align="left">Hi, I'm Harsh Kumar <img src="wave.gif" width="30px" alt="wave" /></h2>
+<h4 align="left">I love exploring technologies and turning ideas into projects 🚀</h4>
 
----
+<hr style="border:1px solid #444444">
 
 ### 🔭 I’m currently working on
 **Code Reviewer** — A smart platform inspired by Cursor that focuses solely on efficient and insightful code reviews.  
 *(Coming Soon!)*
 
----
+<hr style="border:1px solid #444444">
 
 ### 🌱 I’m currently learning
 Trying out new frameworks, tools, and ideas — basically, whatever looks exciting that week 😄
 
----
+<hr style="border:1px solid #444444">
 
-### 📫 How to reach me
-**Email:** [contactharrsh@gmail.com](mailto:contactharrsh@gmail.com)  
-**LinkedIn:** [harshkumar404](https://www.linkedin.com/in/harshkumar404)  
-**LeetCode:** [Harsh00137](https://leetcode.com/Harsh00137)
+## 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,html,css,mysql,github,js,react,nodejs,python,express&perline=" />
+</p>
 
----
+<hr style="border:1px solid #444444">
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkumar404&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+
+<hr style="border:1px solid #444444">
+
+## 🔥 GitHub Streak
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=harshkumar404&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<hr style="border:1px solid #444444">
 
 ### ⚡ Fun fact
 Still looking for one... maybe building cool side projects *is* my fun fact 😜
 
----
-
-## 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,html,css,mysql,github,js,react,nodejs,python&perline=6" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshkumar&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkumar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshkumar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
+<hr style="border:1px solid #444444">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=harshkumar404&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-⭐️ *“Code. Learn. Repeat.”*  
+<p align="center">⭐️ <em>Code. Learn. Repeat.</em></p>
