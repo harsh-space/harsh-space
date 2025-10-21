@@ -36,12 +36,12 @@ const harsh = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh-space&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh-space&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true" alt="GitHub Stats" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=harsh-space&theme=default&hide_border=true&ring=2F80ED&fire=FF6B6B&currStreakLabel=2F80ED&background=FFFFFF&sideNums=333&dates=666&currStreakNum=333&sideLabels=333" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-space&layout=compact&theme=default&hide_border=true&title_color=2F80ED&text_color=333&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-space&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-space&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=2F80ED&line=2F80ED&point=333&area=true&area_color=2F80ED&title_color=2F80ED&custom_title=%20&height=600" alt="Contribution Graph" />
 
