@@ -32,3 +32,7 @@ const harsh = {
 </p>
 
 </div>
+
+## ⚔️ Ongoing Challenges
+<h3 align="center">#30NitesOfCode</h1>
+
