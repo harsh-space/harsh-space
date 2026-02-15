@@ -8,12 +8,12 @@ Hi, I'm Harsh !<img src="https://raw.githubusercontent.com/harsh-space/harsh-spa
 const harsh = {
     education: "Third-year B.Tech in Computer Science",
     passion: "Building cool stuff with code",
-    currentProject: "Code Reviewer - Smart code review platform (Coming Soon!)",
+    currentProject: "can't stick to one!",
     motto: "Learning, experimenting, and creating"
 };
 ```
 
-> 💡 I love exploring new frameworks, building side projects, and turning creative ideas into reality. Currently working on **Code Reviewer**, a smart platform inspired by Cursor that focuses solely on efficient and insightful code reviews.
+> 💡 I love exploring new frameworks, building side projects, and turning creative ideas into reality. Currently upskilling and working on multiple side projects to feed my curiosity.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -32,7 +32,4 @@ const harsh = {
 </p>
 
 </div>
-
-## ⚔️ Ongoing Challenges
-<h3 align="center">#30NitesOfCode</h1>
 
