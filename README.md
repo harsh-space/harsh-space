@@ -30,11 +30,6 @@ const harsh = {
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine Learning" />
 </p>
 
-### Cybersecurity
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux" alt="Cybersecurity" />
-</p>
-
 ### Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,github,arduino,unity" alt="Databases & Tools" />
