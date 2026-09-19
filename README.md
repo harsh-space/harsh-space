@@ -1,38 +1,25 @@
-<h1 align="center">
+<h1 >
 Hi, I'm Harsh !<img src="https://raw.githubusercontent.com/harsh-space/harsh-space/main/wave.gif" width="30px" alt="wave" />
 </h1>
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const harsh = {
     education: "B.Tech in Computer Science",
     passion: "Building cool stuff with code",
-    exploring: ["Machine Learning", "MLOps", "Cybersecurity"],
+    exploring: ["GenAI", "LLMs", "Agentic Systems"],
     currentProject: "can't stick to one!",
     motto: "Learning, experimenting, and creating"
 };
 ```
 
-> 💡 I have a strong inclination towards **ML/MLOps**, **App Development**, and **Cybersecurity**. Currently deep-diving into ML and cybersecurity, with app dev on the roadmap for the future. Always exploring new frameworks, building side projects, and turning creative ideas into reality.
+> I like solving DSA problems and building & experimenting with LLMs, agentic workflows, and scalable AI systems.    
+>  p.s. cant solve codeforces :)
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,nodejs,fastapi" alt="Languages & Frameworks" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,pytorch,sklearn,mysql,firebase,github,arduino" alt="Languages & Frameworks" />
 </p>
 
-### Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine Learning" />
-</p>
 
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,github,arduino,unity" alt="Databases & Tools" />
-</p>
 
-</div>
