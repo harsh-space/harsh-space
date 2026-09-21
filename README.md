@@ -14,7 +14,7 @@ const harsh = {
 };
 ```
 
-> I like solving DSA problems and building & experimenting with LLMs, agentic workflows, and scalable AI systems.    
+> I like solving DSA problems, building & experimenting with LLMs, agentic workflows, and scalable AI systems.    
 >  p.s. cant solve codeforces :)
 
 <p align="center">
