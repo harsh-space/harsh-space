@@ -8,7 +8,7 @@ Hi, I'm Harsh !<img src="https://raw.githubusercontent.com/harsh-space/harsh-spa
 const harsh = {
     education: "B.Tech in Computer Science",
     passion: "Building cool stuff with code",
-    exploring: ["GenAI", "LLMs", "Agentic Systems"],
+    exploring: ["DL, GenAI", "LLMs", "Agentic Systems"],
     currentProject: "can't stick to one!",
     motto: "Learning, experimenting, and creating"
 };
