@@ -18,7 +18,7 @@ const harsh = {
 >  p.s. cant solve codeforces :)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,pytorch,sklearn,mysql,firebase,github,arduino" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,nodejs,fastapi,pytorch,sklearn,mysql,firebase,github,arduino" alt="Languages & Frameworks" />
 </p>
 
 
